@@ -1,1 +1,6 @@
-
+<?xml version="1.0", encoding="utf-8"?>
+<targets>
+  <target name="Google">
+    <resource source="https://ajax.googleapis.com">jQuery</resource>
+  </target>
+</targets>
